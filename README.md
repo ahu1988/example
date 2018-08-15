@@ -6,3 +6,4 @@ aa
 
 status
 
+Creating a new branch is quick.
